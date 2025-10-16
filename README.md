@@ -89,6 +89,6 @@ npm install
 # Run the development server
 npm run dev
 ```
-👨‍💻 Author
+👨‍💻 Author<br>
 Harikesh Tripathi
 
