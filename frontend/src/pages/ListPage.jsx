@@ -32,11 +32,14 @@ export default function ListPage() {
     (async () => {
       setLoading(true);
       try {
-        const resp = await fetch('http://localhost:5000/api/gettabledata.php', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ username: 'test', password: '123456' }),
-        });
+        const resp = await fetch(
+          "https://employee-backend-ht2p.onrender.com/api/gettabledata.php",
+          {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ username: "test", password: "123456" }),
+          }
+        );
 
         const js = await resp.json();
         const arr = js?.TABLE_DATA?.data ?? [];
