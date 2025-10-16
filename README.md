@@ -1,8 +1,14 @@
 # Employee Dashboard & Analytics
 
 A **React.js** web application to manage employee data, visualize salaries, and explore employee details. This project demonstrates authentication, API integration, responsive UI, and data visualization using Recharts.
+frontend:https://employee-dashboard-analytics-5bg9s7wdi-hari659tris-projects.vercel.app/
+Backend:https://employee-backend-ht2p.onrender.com
 
 ---
+<img width="1366" height="768" alt="Screenshot 2025-10-16 160853" src="https://github.com/user-attachments/assets/e031bd4e-862b-440d-b619-850aeddfaf4c" />
+
+<img width="1366" height="768" alt="Screenshot 2025-10-16 160712" src="https://github.com/user-attachments/assets/afd583e7-89d5-4d62-9e36-3271996db20f" />
+
 
 ## 📖 Project Description
 
@@ -48,6 +54,7 @@ This project provides a simple Employee Dashboard with the following functionali
   Clears localStorage and redirects to login page.  
 
 ---
+
 ## 📂 Project Structure
 
 ```bash
