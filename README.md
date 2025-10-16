@@ -55,6 +55,16 @@ This project provides a simple Employee Dashboard with the following functionali
 
 ---
 
+## 📌Future Improvements
+
+Integrate Clerk / Firebase authentication for real login.
+
+Add search, filter, and sort on employee list.
+
+Implement pagination for large datasets.
+
+Improve UI/UX with TailwindCSS or Material-UI.
+
 ## 📂 Project Structure
 
 ```bash
@@ -78,4 +88,7 @@ npm install
 
 # Run the development server
 npm run dev
+```
+👨‍💻 Author
+Harikesh Tripathi
 
